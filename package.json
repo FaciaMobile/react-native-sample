@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "facia-mobilesdk": "^0.4.0",
+    "facia-mobilesdk": "^0.4.1",
     "react": "18.2.0",
     "react-native": "0.72.6"
   },
