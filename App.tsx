@@ -41,7 +41,6 @@ function App(): JSX.Element {
       showConsent: true,
       showVerificationType: true,
       showResult: true,
-      showFeedback: true,
       photo_id_match: false,
       livenessRetryFlow: false,
       documentRetryFlow: false,
@@ -50,10 +49,10 @@ function App(): JSX.Element {
       documentRetryCount: 0,
       faceDetectionThreshold: 'MEDIUM',
       ovalSize: 'LARGE',
-      livenessType: 'DEFAULT_LIVENESS',
+      livenessType: 'ADDITIONAL',
     };
 
-    FaciaReactNativeModule.verify('token', JSON.stringify(config), (res) => {
+    FaciaReactNativeModule.verify('ACCESS_TOKEN', JSON.stringify(config), (res) => {
       const parsedResponse = JSON.parse(res);
       console.log('event:', parsedResponse);
     });
