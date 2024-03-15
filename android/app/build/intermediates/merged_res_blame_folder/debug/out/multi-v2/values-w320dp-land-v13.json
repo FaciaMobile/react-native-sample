@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.reactnativesample.app-mergeDebugResources-45:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/yasir.siddique/.gradle/caches/transforms-3/f84f5c3f7f6e1f1d54b256802a74a61c/transformed/material-1.10.0/res/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        }
+    ]
+}
