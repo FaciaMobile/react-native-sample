@@ -61,42 +61,6 @@
                     }
                 },
                 {
-                    "source": "/Users/yasir.siddique/Desktop/react-sample/react-native-sample/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "54",
-                        "endOffsets": "66"
-                    },
-                    "to": {
-                        "startLines": "1954",
-                        "startColumns": "4",
-                        "startOffsets": "130388",
-                        "endColumns": "54",
-                        "endOffsets": "130438"
-                    }
-                },
-                {
-                    "source": "/Users/yasir.siddique/Desktop/react-sample/react-native-sample/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "267"
-                    },
-                    "to": {
-                        "startLines": "2287",
-                        "startColumns": "4",
-                        "startOffsets": "168600",
-                        "endLines": "2290",
-                        "endColumns": "12",
-                        "endOffsets": "168778"
-                    }
-                },
-                {
                     "source": "/Users/yasir.siddique/.gradle/caches/transforms-3/0fd1425c12b4ad547fe75169beca3740/transformed/recyclerview-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -116,6 +80,42 @@
                     }
                 },
                 {
+                    "source": "/Users/yasir.siddique/Desktop/React-Sample/react-native-sample/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "154,258",
+                        "endColumns": "63,68",
+                        "endOffsets": "213,322"
+                    },
+                    "to": {
+                        "startLines": "1916,1917",
+                        "startColumns": "4,4",
+                        "startOffsets": "127657,127721",
+                        "endColumns": "63,68",
+                        "endOffsets": "127716,127785"
+                    }
+                },
+                {
+                    "source": "/Users/yasir.siddique/Desktop/React-Sample/react-native-sample/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "267"
+                    },
+                    "to": {
+                        "startLines": "2287",
+                        "startColumns": "4",
+                        "startOffsets": "168600",
+                        "endLines": "2290",
+                        "endColumns": "12",
+                        "endOffsets": "168778"
+                    }
+                },
+                {
                     "source": "/Users/yasir.siddique/.gradle/caches/transforms-3/0a7cb7034eac515addf17ce8efdbda3b/transformed/jetified-play-services-basement-18.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -130,23 +130,6 @@
                         "startOffsets": "123706,137147",
                         "endColumns": "67,166",
                         "endOffsets": "123769,137309"
-                    }
-                },
-                {
-                    "source": "/Users/yasir.siddique/Desktop/react-sample/react-native-sample/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "154,258",
-                        "endColumns": "63,68",
-                        "endOffsets": "213,322"
-                    },
-                    "to": {
-                        "startLines": "1916,1917",
-                        "startColumns": "4,4",
-                        "startOffsets": "127657,127721",
-                        "endColumns": "63,68",
-                        "endOffsets": "127716,127785"
                     }
                 },
                 {
@@ -477,6 +460,23 @@
                         "endLines": "1000,6546,7407,7414,7419,7424,7431,7440,10169",
                         "endColumns": "67,12,59,12,12,12,12,12,24",
                         "endOffsets": "60525,463604,527685,528067,528347,528629,529013,529511,684534"
+                    }
+                },
+                {
+                    "source": "/Users/yasir.siddique/Desktop/React-Sample/react-native-sample/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "54",
+                        "endOffsets": "66"
+                    },
+                    "to": {
+                        "startLines": "1954",
+                        "startColumns": "4",
+                        "startOffsets": "130388",
+                        "endColumns": "54",
+                        "endOffsets": "130438"
                     }
                 },
                 {

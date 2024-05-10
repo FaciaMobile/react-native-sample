@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ReactNativeSample-ReactNativeSampleTests/Pods-ReactNativeSample-ReactNativeSampleTests-frameworks.sh
+${PODS_ROOT}/Facia/Facia.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/hermes-engine/Pre-built/hermes.framework/hermes

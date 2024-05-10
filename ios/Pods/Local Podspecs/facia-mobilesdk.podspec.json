@@ -1,0 +1,27 @@
+{
+  "name": "facia-mobilesdk",
+  "version": "0.5.5",
+  "summary": "React Native Mobilesdk Module",
+  "description": "Facia mobile SDK",
+  "homepage": "https://facia.ai",
+  "license": "MIT",
+  "authors": {
+    "facia": "support@facia.ai"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/FaciaMobile/ios-core.git"
+  },
+  "source_files": "ios/**/*.{h,c,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "React-Core": [
+
+    ],
+    "Facia": [
+      "=3.0.6"
+    ]
+  }
+}
