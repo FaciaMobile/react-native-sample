@@ -1,6 +1,6 @@
 {
   "name": "facia-mobilesdk",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "summary": "React Native Mobilesdk Module",
   "description": "Facia mobile SDK",
   "homepage": "https://facia.ai",
@@ -21,7 +21,7 @@
 
     ],
     "Facia": [
-      "=3.0.6"
+      "=3.0.7"
     ]
   }
 }
