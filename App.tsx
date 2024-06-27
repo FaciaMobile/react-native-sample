@@ -7,7 +7,7 @@
 
 import React, { useState } from 'react';
 
-import type {PropsWithChildren} from 'react';
+import type { PropsWithChildren } from 'react';
 import {
   SafeAreaView,
   ScrollView,
@@ -44,6 +44,7 @@ function App(): JSX.Element {
       photo_id_match: false,
       livenessRetryFlow: false,
       documentRetryFlow: false,
+      dimLightDetection: true,
       showMiddleInstructions: false,
       livenessRetryCount: 0,
       documentRetryCount: 0,

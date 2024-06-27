@@ -4138,6 +4138,7 @@ string id_card
 string image_description
 string imagebutton_description
 string improper_lighting
+string increase_light_for_better_scanning
 string instructions_heading
 string item_view_role_description
 string link_description

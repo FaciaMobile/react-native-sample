@@ -2065,6 +2065,7 @@
     <string description="images, code snippets, text, emojis, or other content that can be combined to deliver information in a visual manner" name="image_description">Image</string>
     <string description="Displays a button with an image (instead of text) that can be pressed or clicked by the user" name="imagebutton_description">Button, Image</string>
     <string name="improper_lighting">Improper lighting</string>
+    <string name="increase_light_for_better_scanning">Increase light for better scanning</string>
     <string name="instructions_heading">For Best Results:</string>
     <string name="item_view_role_description">Tab</string>
     <string description="provides an interactive reference to a resource" name="link_description">Link</string>
